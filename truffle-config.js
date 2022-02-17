@@ -17,6 +17,7 @@ module.exports = {
         enabled: true,
         runs: 200,
       },
+      version: '^0.8.0',
     },
   },
 };
